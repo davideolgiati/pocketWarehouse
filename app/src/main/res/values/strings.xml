@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PocketWarehouse</string>
+    <string name="title_home">Add</string>
+    <string name="title_dashboard">Scan</string>
+    <string name="title_notifications">Storage</string>
+</resources>
